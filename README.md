@@ -1,9 +1,10 @@
 pyDash - v1.4.6
 ======
 
-
-[![Flattr this](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/2630601/k3onipydash-on-GitHub "Flattr this")
-
+For Testing Purpose:
+Link : server.anacky.com
+username: anacky
+password: anacky2001@
 
 A small web-based monitoring dashboard for your linux pc/server writen in Python and Django + Chart.js.
 
